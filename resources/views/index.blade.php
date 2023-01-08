@@ -14,7 +14,7 @@
             </div>
         </section>
 
-        <section class="content">
+        {{-- <section class="content">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12">
@@ -73,7 +73,7 @@
                             </div>
                         </div>
 
-                        {{-- <div class="row">
+                        <div class="row">
                             <div class="col-md-6 grid-margin stretch-card">
                                 <div class="card">
                                     <div class="card-body">
@@ -97,21 +97,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
 
-                        {{-- <div class="row">
-                            <div class="col-12 grid-margin">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h4 class="card-title">
-                                            <i class="fas fa-chart-line"></i>
-                                            Productos mas vendidos
-                                        </h4>
-                                        <canvas id="productostop"></canvas>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> --}}
                         <div class="row">
                             <div class="col-12 grid-margin">
                                 <div class="card">
@@ -159,7 +146,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
     </div>
 
 @stop

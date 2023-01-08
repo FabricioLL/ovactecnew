@@ -41,5 +41,7 @@ class HomeController extends Controller
         group by p.code ,p.name, p.id , p.stock order by sum(dv.quantity) desc limit 10');
 
         return view('index', compact( 'comprasmes', 'ventasmes', 'ventasdia', 'totales', 'productosvendidos')); */
+
+        return view('index');
     }
 }

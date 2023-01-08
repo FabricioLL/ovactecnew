@@ -157,7 +157,7 @@
 
 @section('js')
 <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js"></script>
-<script>
+{{-- <script>
     const ctx = document.getElementById('compras').getContext('2d');
     const myChart = new Chart(ctx, {
         type: 'line',
@@ -252,6 +252,6 @@
 
 
 
-</script>
+</script> --}}
 @stop
 
